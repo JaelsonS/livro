@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: tahoma, sans-serif;
+}
+span {
+    font-weight: bold;
+}
+div {
+    text-align: center;
+    border: 1px solid #d5d5d5;
+    padding: 50px;
+    margin: 50px; 
+
+}
+img {
+    width: 190PX;
+
+}
+h1 {
+    font-size: 32PX;
+    padding: 5px;
+}
+h2 {
+    font-size: 24px;
+    padding: 5px;
+}
+p {
+    font-size: 16px;
+    padding: 20px;
+    text-align: center;
+    width: 900px auto;
+
+}
+a {
+    text-decoration: none;
+    border-radius: 14px;
+    background-color: #49b970;
+    color: #f5f5f5;
+    padding: 10px;
+}
